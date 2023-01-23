@@ -1,4 +1,4 @@
-# This code is done on Python 3
+# This code is done on Python 3.
 
 # Challenge 1: Say "Hello, World!" With Python
 # https://www.hackerrank.com/challenges/py-hello-world/problem
