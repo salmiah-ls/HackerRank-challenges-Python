@@ -75,3 +75,8 @@ def is_leap(year):
 
 year = int(input())
 print(is_leap(year))
+
+
+# Challenge 7: Print Function
+# https://www.hackerrank.com/challenges/python-print/problem
+
