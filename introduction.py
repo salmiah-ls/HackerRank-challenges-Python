@@ -80,3 +80,15 @@ print(is_leap(year))
 # Challenge 7: Print Function
 # https://www.hackerrank.com/challenges/python-print/problem
 
+if __name__ == '__main__':
+    n = int(input())
+    if 1 <= n <= 150:
+        i = 1
+        while i <= n:
+            x = str(i)
+            print(x, end='')
+            if i == n+1:
+                break
+            i += 1
+    else:
+        pass
