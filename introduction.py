@@ -10,7 +10,7 @@ if __name__ == '__main__':
 # Challenge 2: Python If-Else
 # https://www.hackerrank.com/challenges/py-if-else/problem
 
-f __name__ == '__main__':
+if __name__ == '__main__':
     n = int(input().strip())
     if n%2 == 1:
         print("Weird")
